@@ -88,7 +88,7 @@ class EmailUtils
 	 * 
 	 * @return bool
 	 */
-	private static function sendGenericMessage(
+	public static function sendGenericMessage(
 		User 	$recipient,
 		string 	$subject,
 		string 	$templateFileName,
