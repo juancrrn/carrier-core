@@ -17,5 +17,7 @@
         "psr-4": {
             "Carrier\\": "src/Carrier/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
