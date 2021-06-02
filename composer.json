@@ -1,5 +1,6 @@
 {
     "name": "juancrrn/carrier-core",
+    "version": "0.0.1",
     "description": "Carrier PHP framework core functionality and source.",
     "authors": [
         {
